@@ -1,0 +1,2 @@
+# Paste Instagram post/reel links here, one per line, then run: node scripts/fetch-ig.mjs
+# example: https://www.instagram.com/reel/XXXXXXXXXXX/
