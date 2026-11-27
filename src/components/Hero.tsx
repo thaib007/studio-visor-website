@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import type { ReactNode } from "react";
-import { FOLLOWERS, IG, MESSENGER } from "../data/site";
+import { IG, MESSENGER } from "../data/site";
 import { cn } from "../utils/cn";
-import { Counter, EASE } from "./bits";
+import { EASE } from "./bits";
 import { InstagramIcon, MessengerIcon } from "./icons";
 import Scene3D from "./Scene3D";
 
@@ -88,7 +88,7 @@ export default function Hero() {
       <div className="relative mx-auto max-w-7xl px-5 pb-16 md:px-10">
         <motion.div {...fade(0.8)} className="glass grid grid-cols-1 gap-8 rounded-3xl px-6 py-7 sm:grid-cols-3 md:px-10 md:py-8">
           <Stat value="3" label="Years of Studio Visor" />
-          <Stat value={<Counter to={FOLLOWERS} />} label="Followers on Facebook" />
+          <Stat value="Worldwide" label="Creators and brands" />
           <Stat value="Always open" label="Road 17, Uttara, Dhaka" />
         </motion.div>
       </div>
