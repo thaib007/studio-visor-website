@@ -28,7 +28,7 @@ Large animated headline: **Edit. Thumbnail. Automate.**
 
 Location badge, call-to-action buttons (Messenger & Instagram), and a 3D interactive element.
 
-![Hero](https://via.placeholder.com/1200x675/0a0a0a/04b5ff?text=Hero+%E2%80%94+Edit.+Thumbnail.+Automate.)
+![Hero](docs/hero.png)
 
 ### Services
 Clear list of what the studio offers with large typography and hover effects.
@@ -36,8 +36,6 @@ Clear list of what the studio offers with large typography and hover effects.
 - Video Editing
 - Thumbnails
 - Automation
-
-![Services](https://via.placeholder.com/1200x675/0a0a0a/04b5ff?text=Services+%E2%80%94+What+we+do)
 
 ### Team • Lab • Work • Contact
 Additional sections for team, experiments (Lab), portfolio teaser, and contact form / FAB.
@@ -58,8 +56,6 @@ Additional sections for team, experiments (Lab), portfolio teaser, and contact f
 ## Live Demo
 
 **https://thaib007.github.io/studio-visor-website/**
-
-*(Make sure GitHub Pages is enabled from the Actions tab / Settings → Pages → GitHub Actions)*
 
 ---
 
